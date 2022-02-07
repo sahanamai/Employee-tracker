@@ -21,3 +21,4 @@ This project is licensed under MIT.
 
 ![employee tracker 1](https://user-images.githubusercontent.com/41078587/152723564-a2111e19-3b15-47d1-b40f-1bac9e48cbed.png)
 ![employee tracker 2](https://user-images.githubusercontent.com/41078587/152723607-d23a8db4-e3ec-44ea-9190-35d1e31aaea6.png)
+![employee tracker 3](https://user-images.githubusercontent.com/41078587/152723643-6ffb0772-89c1-46f8-b4a6-a5634f1de4aa.png)
