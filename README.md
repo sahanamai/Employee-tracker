@@ -19,3 +19,4 @@ This application allows a user to track employees in a company.The user can view
 This project is licensed under MIT.
 ## Screenshot
 
+![employee tracker 1](https://user-images.githubusercontent.com/41078587/152723564-a2111e19-3b15-47d1-b40f-1bac9e48cbed.png)
