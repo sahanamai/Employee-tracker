@@ -17,4 +17,5 @@ This application allows a user to track employees in a company.The user can view
 - mysql
 ## License 
 This project is licensed under MIT.
+## Screenshot
 
